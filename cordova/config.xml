@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="moda" version="0.1.0">
+  <name>Moda</name>
+  <description>
+    Dalimo mobile app
+  </description>
+  <author email="mkorban@gmail.com">
+    Mikhail Korban
+  </author>
+</widget>
